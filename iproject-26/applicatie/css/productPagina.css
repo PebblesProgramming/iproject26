@@ -1,0 +1,27 @@
+#time-remaining {
+    background: #E5005622;
+}
+
+#time-remaining > h4 {
+    font-size: 1.2em;
+    color: #E50056;
+}
+
+#productInfo p {
+    margin: 12px 0px;
+    letter-spacing: .05em;
+}
+
+#productInfo p {
+    font-size: 1.1em;
+}
+
+small {
+    letter-spacing: 0.02em;
+    font-size: 0.74em;
+    color: #000000aa
+}
+
+#kavelBeschrijving {
+    background-color: #00000011;
+}

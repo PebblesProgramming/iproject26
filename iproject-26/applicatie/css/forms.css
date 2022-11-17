@@ -1,0 +1,8 @@
+.inputForm {
+    min-height: 70vh;
+}
+
+input[type=checkbox], label[for=verkoper] {
+    float: left;
+    clear: both;
+}

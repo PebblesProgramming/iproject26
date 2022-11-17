@@ -1,0 +1,28 @@
+.dropdown-item:focus {
+    background-color: #E50056;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu>.dropdown-menu {
+    left: 100%;
+    top: -6px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu,
+.dropdown-submenu>a:focus+.dropdown-menu {
+    display: block;
+}
+nav #categories a {
+    text-decoration: none;
+    color: #000;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+nav li:hover {
+    background: #00000033;
+}
